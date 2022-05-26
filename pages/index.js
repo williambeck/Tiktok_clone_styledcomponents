@@ -1,3 +1,5 @@
+import Layout from "../components/Layout";
+
 import styled from "styled-components"
 
 const Title = styled.h1`
@@ -6,7 +8,8 @@ const Title = styled.h1`
 
 export default function Home() {
   return (
-    <div><Title>Ola Mundo</Title>
-    </div>
+    <><Layout /><div><Title>TikTok</Title>
+
+    </div></>
   )
 }

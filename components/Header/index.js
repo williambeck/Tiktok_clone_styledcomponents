@@ -6,7 +6,7 @@ function Header() {
         <Container>
             <Content>
                 <LogoContainer>
-                    <LogoIcon src="/images/Logo_tiktok.svg"></LogoIcon>
+                    <LogoIcon src="/images/LogoIcon.svg"></LogoIcon>
                     <Logo src="/images/logo.svg"></Logo>
                 </LogoContainer>
                 <OptionsContainer>

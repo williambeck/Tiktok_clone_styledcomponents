@@ -114,12 +114,9 @@ export const Button = styled.button`
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     -webkit-justify-content: center;
-    /* justify-content: center; */
+     justify-content: center; 
     padding: 6px 8px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
+    
     cursor: pointer;
     box-sizing: border-box;
     font-family: ProximaNova,Arial,Tahoma,PingFangSC,sans-serif;
